@@ -1,0 +1,4 @@
+Vehicle ID: 2 Violation type: Speeding Time occured: 2.2
+Vehicle ID: 1 Violation type: Speeding Time occured: 2.24
+Vehicle ID: 11 Violation type: Speeding Time occured: 4.57
+Vehicle ID: 31 Violation type: Speeding Time occured: 8.34
